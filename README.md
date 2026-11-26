@@ -5,6 +5,12 @@ An end-to-end healthcare data analytics project built using Python and Machine L
 
 This project is intended for educational and analytical purposes and is not a medical diagnostic tool.
 
+## Live Demo
+
+**Live Application:** [Healthcare Data Analytics Dashboard]https://healthcare-data-analytics1.streamlit.app/
+
+**GitHub Repository:** [Healthcare-Data-Analytics]https://github.com/MohitPednekar/Healthcare-Data-Analytics
+
 ## Features
 - Data cleaning and preprocessing using Pandas and NumPy.
 - Exploratory Data Analysis (EDA) with visualisations.

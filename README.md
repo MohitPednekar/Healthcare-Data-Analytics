@@ -14,6 +14,63 @@ This project is intended for educational and analytical purposes and is not a me
 - Feature importance analysis using permutation importance.
 - Interactive Streamlit dashboard.
 - Downloadable anomaly detection report.
+## Application Screenshots
+
+### 1. Dashboard & Data Analysis
+
+**Dashboard Overview**
+
+![Dashboard](screenshots/dashboard.png)
+
+**Outcome Distribution**
+
+![Outcome Distribution](screenshots/outcomedistribution.png)
+
+**Feature Correlation Analysis**
+
+![Feature Correlation Analysis](screenshots/featurecorrelationanalysis.png)
+
+### 2. Machine Learning Model Evaluation
+
+**Model Evaluation**
+
+![Model Evaluation](screenshots/modelevaluation.png)
+
+**Test Performance**
+
+![Test Performance](screenshots/testperformance.png)
+
+**Confusion Matrix**
+
+![Confusion Matrix](screenshots/confusionmatrix.png)
+
+**Random Forest Analysis**
+
+![Random Forest](screenshots/randomforest.png)
+
+### 3. Prediction Interface
+
+**Prediction Inputs**
+
+![Prediction Inputs](screenshots/predictioninputs.png)
+
+**Prediction Results**
+
+![Prediction Results](screenshots/predictionresults.png)
+
+### 4. Anomaly Detection
+
+**Anomaly Analysis**
+
+![Anomaly Analysis](screenshots/anamolyanalysis.png)
+
+**Anomaly Distribution**
+
+![Anomaly Distribution](screenshots/anamolydistribution.png)
+
+**Anomaly Records**
+
+![Anomaly Records](screenshots/anamolyrecords.png)
 
 ## Technologies Used
 - Python
